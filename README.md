@@ -4,6 +4,7 @@ A link directory for four free browser-based learning tools and their complete l
 
 - 🌐 Home: https://mm7382.github.io/
 - 🇬🇧 English entry page: https://mm7382.github.io/en/
+- 📘 Beginner articles in English: https://mm7382.github.io/learn/en/
 - 🤖 Machine-readable index: https://mm7382.github.io/llms.txt
 
 | Tool | What it does | Open |
@@ -53,7 +54,7 @@ These are learning and reflection tools; they do not predict or guarantee the fu
 - [情境主視覺設計｜作品介紹｜Michael Agent Lab](https://mm7382.github.io/work/visual-scenes.html): Actual work, images and current availability.
 - [易見｜作品介紹｜Michael Agent Lab](https://mm7382.github.io/work/yijian.html): Actual work, images and current availability.
 
-## Learning articles (zh-Hant + en)
+## Learning articles in Traditional Chinese (each has an independent English URL, listed in the next section)
 - [相位是什麼？合相、對分、三分、四分、六分怎麼看｜What are aspects in a birth chart?](https://mm7382.github.io/learn/aspects.html)
 - [八字入門：四柱、天干地支與五行怎麼看｜Bazi for beginners](https://mm7382.github.io/learn/bazi-four-pillars.html)
 - [動爻、本卦與之卦是什麼？｜What are changing lines, the primary hexagram and the resulting hexagram?](https://mm7382.github.io/learn/changing-lines.html)
@@ -89,6 +90,47 @@ These are learning and reflection tools; they do not predict or guarantee the fu
 - [紫微斗數入門：十二宮與命宮｜Zi Wei Dou Shu for beginners](https://mm7382.github.io/learn/ziwei-twelve-palaces.html)
 - [紫微斗數和八字有什麼不同？初學該從哪個開始｜Zi Wei Dou Shu vs Bazi](https://mm7382.github.io/learn/ziwei-vs-bazi.html)
 
+- [坤卦是什麼意思？易經第二卦的卦辭與六爻白話解說｜What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/kun-hexagram.html)
+- [起完卦之後怎麼解讀？讀卦的六個步驟與取文規則｜How do you interpret an I Ching reading?](https://mm7382.github.io/learn/interpret-a-reading.html)
+
+## Learning articles in English (independent URLs, no login)
+- [Beginner articles index: I Ching, Bazi, Zi Wei Dou Shu and Western astrology](https://mm7382.github.io/learn/en/)
+- [What are the sixty-four hexagrams? Names, trigrams and order explained](https://mm7382.github.io/learn/en/sixty-four-hexagrams.html)
+- [What does the Qian hexagram mean? The first hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/qian-hexagram.html)
+- [What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/kun-hexagram.html)
+- [Zhou Yi or Yi Jing: what is the difference? The Three Changes and the Ten Wings](https://mm7382.github.io/learn/en/zhouyi-vs-yijing.html)
+- [How to start learning the I Ching: from yin and yang to the eight trigrams and sixty-four hexagrams](https://mm7382.github.io/learn/en/yijian-beginner.html)
+- [What are changing lines, the primary hexagram and the resulting hexagram?](https://mm7382.github.io/learn/en/changing-lines.html)
+- [How to choose a good app for learning the I Ching: five things to check](https://mm7382.github.io/learn/en/how-to-choose-i-ching-app.html)
+- [Can you teach yourself the I Ching? A self-study order that works](https://mm7382.github.io/learn/en/i-ching-self-study.html)
+- [What are the eight trigrams? Qian, Kun, Zhen, Xun, Kan, Li, Gen and Dui explained](https://mm7382.github.io/learn/en/eight-trigrams.html)
+- [How do you cast an I Ching hexagram with three coins?](https://mm7382.github.io/learn/en/coin-casting.html)
+- [How do you look up one of the sixty-four hexagrams?](https://mm7382.github.io/learn/en/hexagram-lookup.html)
+- [What is the difference between the I Ching and tarot?](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
+- [How do you ask the I Ching a question?](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html)
+- [How do you interpret an I Ching reading?](https://mm7382.github.io/learn/en/interpret-a-reading.html)
+- [Bazi for beginners: how to read the four pillars, stems, branches and the Five Phases](https://mm7382.github.io/learn/en/bazi-four-pillars.html)
+- [What are the Ten Gods? Reading relationships in a Bazi chart from the Day Master](https://mm7382.github.io/learn/en/ten-gods.html)
+- [How to choose an app for learning Bazi: five things to check](https://mm7382.github.io/learn/en/how-to-choose-bazi-app.html)
+- [What is the Day Master? How to find yours in a Bazi chart](https://mm7382.github.io/learn/en/day-master.html)
+- [What are the Five Phases? How Wood, Fire, Earth, Metal and Water relate](https://mm7382.github.io/learn/en/five-phases.html)
+- [What are luck pillars (Da Yun) in Bazi?](https://mm7382.github.io/learn/en/luck-pillars.html)
+- [How do the twelve earthly branches map to clock hours?](https://mm7382.github.io/learn/en/earthly-branches-hours.html)
+- [Can you build a Bazi chart from a lunar birthday?](https://mm7382.github.io/learn/en/lunar-calendar-bazi.html)
+- [Zi Wei Dou Shu for beginners: the twelve palaces and the Life Palace](https://mm7382.github.io/learn/en/ziwei-twelve-palaces.html)
+- [What is the difference between the Life Palace and the Body Palace?](https://mm7382.github.io/learn/en/life-body-palace.html)
+- [How to choose an app for learning Zi Wei Dou Shu: five things to check](https://mm7382.github.io/learn/en/how-to-choose-ziwei-app.html)
+- [Zi Wei Dou Shu vs Bazi: how they differ and which to learn first](https://mm7382.github.io/learn/en/ziwei-vs-bazi.html)
+- [What are the major stars in Zi Wei Dou Shu? An introduction to the fourteen major stars](https://mm7382.github.io/learn/en/major-stars.html)
+- [What are the Four Transformations (Si Hua)?](https://mm7382.github.io/learn/en/four-transformations.html)
+- [Star brightness in Zi Wei Dou Shu](https://mm7382.github.io/learn/en/star-brightness.html)
+- [How to read a birth chart: the Sun, Moon and Ascendant](https://mm7382.github.io/learn/en/sun-moon-rising.html)
+- [Can you read a birth chart without knowing your birth time?](https://mm7382.github.io/learn/en/unknown-birth-time.html)
+- [How to choose an app for learning astrology: five things to check](https://mm7382.github.io/learn/en/how-to-choose-astrology-app.html)
+- [What are the twelve houses in a birth chart? A beginner's guide](https://mm7382.github.io/learn/en/twelve-houses.html)
+- [What are the four elements and three modalities of the zodiac signs?](https://mm7382.github.io/learn/en/elements-modalities.html)
+- [What are aspects in a birth chart?](https://mm7382.github.io/learn/en/aspects.html)
+- [What does retrograde actually mean?](https://mm7382.github.io/learn/en/retrograde.html)
 ## Complete I Ching lessons (free, Traditional Chinese; the English versions are listed in the next section)
 - [陰陽與六爻順序](https://mm7382.github.io/yijian-web/lessons/1/)
 - [八卦與上下卦](https://mm7382.github.io/yijian-web/lessons/2/)
