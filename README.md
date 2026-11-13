@@ -110,6 +110,7 @@ Each file links back to its source page.
 
 - [坤卦是什麼意思？易經第二卦的卦辭與六爻白話解說｜What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/kun-hexagram.html)
 - [起完卦之後怎麼解讀？讀卦的六個步驟與取文規則｜How do you interpret an I Ching reading?](https://mm7382.github.io/learn/interpret-a-reading.html)
+- [線上起卦準嗎？免費線上易經占卜的正確做法｜Free online I Ching reading: how to do one properly](https://mm7382.github.io/learn/online-i-ching-reading.html)
 
 ## Learning articles in English (independent URLs, no login)
 - [Beginner articles index: I Ching, Bazi, Zi Wei Dou Shu and Western astrology](https://mm7382.github.io/learn/en/)
@@ -127,6 +128,7 @@ Each file links back to its source page.
 - [What is the difference between the I Ching and tarot?](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
 - [How do you ask the I Ching a question?](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html)
 - [How do you interpret an I Ching reading?](https://mm7382.github.io/learn/en/interpret-a-reading.html)
+- [Free online I Ching reading: how to do one properly](https://mm7382.github.io/learn/en/online-i-ching-reading.html)
 - [Bazi for beginners: how to read the four pillars, stems, branches and the Five Phases](https://mm7382.github.io/learn/en/bazi-four-pillars.html)
 - [What are the Ten Gods? Reading relationships in a Bazi chart from the Day Master](https://mm7382.github.io/learn/en/ten-gods.html)
 - [How to choose an app for learning Bazi: five things to check](https://mm7382.github.io/learn/en/how-to-choose-bazi-app.html)
