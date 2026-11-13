@@ -18,6 +18,12 @@ These are learning and reflection tools; they do not predict or guarantee the fu
 
 ---
 
+## Full text of every article (mirror)
+
+The complete text of all 37 beginner articles is mirrored in this repository, in Traditional Chinese and English: **[articles/](articles/)**
+
+Each file links back to its source page. The article text is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so it may be quoted, translated and adapted with attribution to Wei Chun Chuang.
+
 ## Full page index
 
 > Four free browser apps for the I Ching, Bazi, Zi Wei Dou Shu and Western astrology. Complete lessons in Traditional Chinese and English, no account, data stays in the browser. Learning tools, not guarantees about the future.
