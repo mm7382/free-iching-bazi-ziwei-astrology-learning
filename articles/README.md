@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 37 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 38 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -39,6 +39,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [What are the sixty-four hexagrams? Names, trigrams and order explained](en/sixty-four-hexagrams.md) — [source](https://mm7382.github.io/learn/en/sixty-four-hexagrams.html)
 - [What do the brightness levels of stars mean in Zi Wei Dou Shu?](en/star-brightness.md) — [source](https://mm7382.github.io/learn/en/star-brightness.html)
 - [How to read a birth chart: the Sun, Moon and Ascendant](en/sun-moon-rising.md) — [source](https://mm7382.github.io/learn/en/sun-moon-rising.html)
+- [What does the Tai hexagram mean? Hexagram 11 of the I Ching in plain words](en/tai-hexagram.md) — [source](https://mm7382.github.io/learn/en/tai-hexagram.html)
 - [What are the Ten Gods? Reading relationships in a Bazi chart from the Day Master](en/ten-gods.md) — [source](https://mm7382.github.io/learn/en/ten-gods.html)
 - [What are the twelve houses in a birth chart? A beginner's guide](en/twelve-houses.md) — [source](https://mm7382.github.io/learn/en/twelve-houses.html)
 - [Can you read a birth chart without knowing your birth time?](en/unknown-birth-time.md) — [source](https://mm7382.github.io/learn/en/unknown-birth-time.html)
@@ -79,6 +80,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [六十四卦是什麼？卦名、上下卦與卦序一次看懂](zh/sixty-four-hexagrams.md) — [原文](https://mm7382.github.io/learn/sixty-four-hexagrams.html)
 - [廟旺利陷是什麼意思？紫微斗數的星曜亮度](zh/star-brightness.md) — [原文](https://mm7382.github.io/learn/star-brightness.html)
 - [星盤怎麼看：太陽、月亮、上升](zh/sun-moon-rising.md) — [原文](https://mm7382.github.io/learn/sun-moon-rising.html)
+- [泰卦是什麼意思？易經第十一卦與「否極泰來」的由來](zh/tai-hexagram.md) — [原文](https://mm7382.github.io/learn/tai-hexagram.html)
 - [十神是什麼？從日主讀懂八字裡的關係](zh/ten-gods.md) — [原文](https://mm7382.github.io/learn/ten-gods.html)
 - [星盤的十二宮是什麼？宮位入門](zh/twelve-houses.md) — [原文](https://mm7382.github.io/learn/twelve-houses.html)
 - [不知道出生時間，還能看星盤嗎？](zh/unknown-birth-time.md) — [原文](https://mm7382.github.io/learn/unknown-birth-time.html)
