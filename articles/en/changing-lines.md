@@ -80,8 +80,6 @@ That is a common convention; some people reverse it. What matters is staying con
 
 To practise these ideas, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course that teaches the I Ching from zero, with eight interactive beginner lessons (the first three free) and illustrated guides to all sixty-four hexagrams. Casting in the app is a practice feature for checking what you have learned and reflecting on your situation; it does not make decisions for you.
 
-[Download YiJian free on the App Store →](https://apps.apple.com/tw/app/id6816324095)
-
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/changing-lines.html)
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html). Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution.

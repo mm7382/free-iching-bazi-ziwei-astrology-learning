@@ -90,8 +90,6 @@ The trigrams are the building blocks. The body of the I Ching is the sixty-four 
 
 If you want structured practice, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course that teaches the I Ching from zero: eight interactive beginner lessons (the first three free), guided reading of all sixty-four hexagrams with diagrams and quizzes, plus spaced review and a mistakes notebook. Casting in the app is a practice feature for reflection; it does not hand you conclusions.
 
-[Download YiJian free on the App Store →](https://apps.apple.com/tw/app/id6816324095)
-
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/yijian-beginner.html)
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html). Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution.

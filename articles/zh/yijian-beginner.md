@@ -90,8 +90,6 @@
 
 想按部就班練習的話，[易見](https://mm7382.github.io/yijian/)是一款從零學易經的 iPhone App：八堂互動入門課（前三堂免費），六十四卦都有圖解導讀與小測驗，並有複習排程和錯題本。App 裡的起卦是練習功能，用來反思，不替你下結論。
 
-[在 App Store 免費下載易見 →](https://apps.apple.com/tw/app/id6816324095)
-
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/yijian-beginner.html)
 
 ---

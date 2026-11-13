@@ -78,8 +78,6 @@
 
 想把這些概念放進練習裡，[易見－易經入門](https://mm7382.github.io/yijian/)是一款從零學易經的 iPhone App，有八堂互動入門課（前三堂免費）和六十四卦的圖解導讀。App 的起卦是練習功能，用來對照所學、反思自己的處境，不替你做決定。
 
-[在 App Store 免費下載易見 →](https://apps.apple.com/tw/app/id6816324095)
-
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/kun-hexagram.html)
 
 ---
