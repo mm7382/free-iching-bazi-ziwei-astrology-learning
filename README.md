@@ -30,6 +30,12 @@ The complete text of the free Bazi (20), Zi Wei Dou Shu (36), Western astrology 
 
 Each file links back to its source page. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+## Portfolio, tools and app pages (mirror)
+
+The portfolio pages, the free browser tool pages and the app pages are mirrored here: **[pages/](pages/)**
+
+Each file links back to its source page.
+
 ## Full page index
 
 > Four free browser apps for the I Ching, Bazi, Zi Wei Dou Shu and Western astrology. Complete lessons in Traditional Chinese and English, no account, data stays in the browser. Learning tools, not guarantees about the future.
