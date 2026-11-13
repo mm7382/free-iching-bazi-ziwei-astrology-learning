@@ -26,7 +26,7 @@ Each file links back to its source page. The article text is licensed under [CC 
 
 ## Full text of the course lessons (mirror)
 
-The complete text of the free Bazi (20), Zi Wei Dou Shu (36) and Western astrology (36) web lessons is mirrored here, in Traditional Chinese and English: **[courses/](courses/)**
+The complete text of the free Bazi (20), Zi Wei Dou Shu (36), Western astrology (36) and I Ching (8) web lessons, plus all 64 hexagram pages, is mirrored here in Traditional Chinese and English: **[courses/](courses/)**
 
 Each file links back to its source page. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
