@@ -24,6 +24,12 @@ The complete text of all 37 beginner articles is mirrored in this repository, in
 
 Each file links back to its source page. The article text is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so it may be quoted, translated and adapted with attribution to Wei Chun Chuang.
 
+## Full text of the course lessons (mirror)
+
+The complete text of the free Bazi (20), Zi Wei Dou Shu (36) and Western astrology (36) web lessons is mirrored here, in Traditional Chinese and English: **[courses/](courses/)**
+
+Each file links back to its source page. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## Full page index
 
 > Four free browser apps for the I Ching, Bazi, Zi Wei Dou Shu and Western astrology. Complete lessons in Traditional Chinese and English, no account, data stays in the browser. Learning tools, not guarantees about the future.
