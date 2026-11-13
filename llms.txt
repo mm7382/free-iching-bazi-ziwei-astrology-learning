@@ -10,6 +10,8 @@
 
 - [免費線上易經起卦與解讀](https://mm7382.github.io/yijian-web/cast/): Three-coin casting, 6/7/8/9 line rules, changing lines and the resulting hexagram, read with Zhu Xi's rules. Free, no login, no personal data; history stays in the browser.
 - [English entry page: four free tools, no login](https://mm7382.github.io/en/): Plain-English overview of all four browser tools, which parts are in English, how the I Ching casting rules work, and what happens when the birth time is unknown.
+- [全站網頁索引（繁體中文，217 頁）](https://mm7382.github.io/site-index.html): Complete list of every Traditional Chinese page on the site, grouped by tool: I Ching lessons and all 64 hexagrams, beginner articles, Bazi, Zi Wei Dou Shu and astrology charts and courses.
+- [Full site index (English, 208 pages)](https://mm7382.github.io/en/site-index.html): Complete list of every English page on the site, grouped by tool, so a crawler or assistant can reach any page in one hop.
 ## Apps
 - [易見 YiJian](https://mm7382.github.io/yijian/): YiJian (易見): iPhone course teaching the I Ching from zero. 8 interactive beginner lessons (3 free), guided reading of all 64 hexagrams with diagrams and quizzes, spaced review and mistakes notebook. Casting is a practice feature for reflection. Traditional Chinese and English. No account. Available on the App Store: https://apps.apple.com/tw/app/id6816324095 Details: https://mm7382.github.io/yijian/llms.txt
 - [時來－八字 Shilai – Bazi](https://mm7382.github.io/bazi/): Shilai – Bazi: beginner iPhone course for reading your own Bazi (Four Pillars) chart. App calculates the chart; 20 plain-language lessons (3 free) cover pillars, stems and branches, Five Phases, Day Master, Ten Gods, combinations and clashes. Ungraded quizzes, daily question, notes and review. Traditional Chinese and English. No account; data on device. In App Store review.
@@ -40,9 +42,11 @@
 - [動爻、本卦與之卦是什麼？｜What are changing lines, the primary hexagram and the resulting hexagram?](https://mm7382.github.io/learn/changing-lines.html)
 - [六十四卦是什麼？卦名、上下卦與卦序一次看懂｜What are the sixty-four hexagrams? Names, trigrams and order explained](https://mm7382.github.io/learn/sixty-four-hexagrams.html)
 - [乾卦是什麼意思？易經第一卦的卦辭與六爻白話解說｜What does the Qian hexagram mean? The first hexagram of the I Ching in plain words](https://mm7382.github.io/learn/qian-hexagram.html)
+- [坤卦是什麼意思？易經第二卦的卦辭與六爻白話解說｜What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/kun-hexagram.html)
 - [周易和易經有什麼不同？連山、歸藏與十翼一次說清楚｜Zhou Yi or Yi Jing: what is the difference? The Three Changes and the Ten Wings](https://mm7382.github.io/learn/zhouyi-vs-yijing.html)
 - [三枚銅錢起卦怎麼做？擲六次的規則與記錄方式｜How do you cast an I Ching hexagram with three coins?](https://mm7382.github.io/learn/coin-casting.html)
 - [易經要怎麼問問題？問卦前把問題寫清楚的五個原則｜How do you ask the I Ching a question?](https://mm7382.github.io/learn/ask-the-i-ching-a-question.html)
+- [起完卦之後怎麼解讀？讀卦的六個步驟與取文規則｜How do you interpret an I Ching reading?](https://mm7382.github.io/learn/interpret-a-reading.html)
 - [日主是什麼？怎麼從八字找到自己的日主｜What is the Day Master?](https://mm7382.github.io/learn/day-master.html)
 - [十二時辰怎麼對應現在的時間？子丑寅卯一次看懂｜How do the twelve earthly branches map to clock hours?](https://mm7382.github.io/learn/earthly-branches-hours.html)
 - [八卦是什麼？乾坤震巽坎離艮兌一次看懂｜What are the eight trigrams?](https://mm7382.github.io/learn/eight-trigrams.html)
@@ -60,7 +64,7 @@
 - [大運是什麼？八字的十年運怎麼排｜What are luck pillars (Da Yun) in Bazi?](https://mm7382.github.io/learn/luck-pillars.html)
 - [農曆生日可以直接排八字嗎？節氣與換月是怎麼算的｜Can you build a Bazi chart from a lunar birthday?](https://mm7382.github.io/learn/lunar-calendar-bazi.html)
 - [紫微斗數的主星是什麼？十四主星入門｜What are the major stars in Zi Wei Dou Shu?](https://mm7382.github.io/learn/major-stars.html)
-- [逆行是什麼意思？水星逆行到底在說什麼｜What does retrograde actually mean?](https://mm7382.github.io/learn/retrograde.html)
+- [逆行是什麼意思？水逆（水星逆行）到底在說什麼｜What does retrograde actually mean?](https://mm7382.github.io/learn/retrograde.html)
 - [廟旺利陷是什麼意思？紫微斗數的星曜亮度｜Star brightness in Zi Wei Dou Shu](https://mm7382.github.io/learn/star-brightness.html)
 - [星盤怎麼看：太陽、月亮、上升｜How to read a birth chart](https://mm7382.github.io/learn/sun-moon-rising.html)
 - [十神是什麼？從日主讀懂八字裡的關係｜What are the Ten Gods?](https://mm7382.github.io/learn/ten-gods.html)
@@ -322,3 +326,59 @@
 - [Hexagram 62: Xiao Guo · Small Exceeding](https://mm7382.github.io/yijian-web/hexagrams/62/en/): Overdo the small things a little; do not cross the line on the large ones.
 - [Hexagram 63: Ji Ji · After Completion](https://mm7382.github.io/yijian-web/hexagrams/63/en/): The moment it is finished is the moment to start guarding it.
 - [Hexagram 64: Wei Ji · Before Completion](https://mm7382.github.io/yijian-web/hexagrams/64/en/): Not yet ashore is not defeat; sort things, place them, and keep going.
+
+## Beginner articles in English (static English pages)
+
+- [How do you ask the I Ching a question?](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html)
+- [How do you interpret an I Ching reading?](https://mm7382.github.io/learn/en/interpret-a-reading.html)
+- [What are aspects in a birth chart?](https://mm7382.github.io/learn/en/aspects.html)
+- [Bazi for beginners: how to read the four pillars, stems, branches and the Five Phases](https://mm7382.github.io/learn/en/bazi-four-pillars.html)
+- [What are changing lines, the primary hexagram and the resulting hexagram?](https://mm7382.github.io/learn/en/changing-lines.html)
+- [How do you cast an I Ching hexagram with three coins?](https://mm7382.github.io/learn/en/coin-casting.html)
+- [What is the Day Master? How to find yours in a Bazi chart](https://mm7382.github.io/learn/en/day-master.html)
+- [How do the twelve earthly branches map to clock hours?](https://mm7382.github.io/learn/en/earthly-branches-hours.html)
+- [What are the eight trigrams? Qian, Kun, Zhen, Xun, Kan, Li, Gen and Dui explained](https://mm7382.github.io/learn/en/eight-trigrams.html)
+- [What are the four elements and three modalities of the zodiac signs?](https://mm7382.github.io/learn/en/elements-modalities.html)
+- [What are the Five Phases? How Wood, Fire, Earth, Metal and Water relate](https://mm7382.github.io/learn/en/five-phases.html)
+- [What are the Four Transformations (Si Hua) in Zi Wei Dou Shu?](https://mm7382.github.io/learn/en/four-transformations.html)
+- [How do you look up one of the sixty-four hexagrams?](https://mm7382.github.io/learn/en/hexagram-lookup.html)
+- [How to choose an app for learning astrology: five things to check](https://mm7382.github.io/learn/en/how-to-choose-astrology-app.html)
+- [How to choose an app for learning Bazi: five things to check](https://mm7382.github.io/learn/en/how-to-choose-bazi-app.html)
+- [How to choose a good app for learning the I Ching: five things to check](https://mm7382.github.io/learn/en/how-to-choose-i-ching-app.html)
+- [How to choose an app for learning Zi Wei Dou Shu: five things to check](https://mm7382.github.io/learn/en/how-to-choose-ziwei-app.html)
+- [Can you teach yourself the I Ching? A self-study order that works](https://mm7382.github.io/learn/en/i-ching-self-study.html)
+- [What is the difference between the I Ching and tarot?](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
+- [Beginner articles: I Ching, Bazi, Zi Wei Dou Shu and Western astrology](https://mm7382.github.io/learn/en/)
+- [What is the difference between the Life Palace and the Body Palace?](https://mm7382.github.io/learn/en/life-body-palace.html)
+- [What are luck pillars (Da Yun) in Bazi?](https://mm7382.github.io/learn/en/luck-pillars.html)
+- [Can you build a Bazi chart straight from a lunar birthday?](https://mm7382.github.io/learn/en/lunar-calendar-bazi.html)
+- [What are the major stars in Zi Wei Dou Shu? An introduction to the fourteen major stars](https://mm7382.github.io/learn/en/major-stars.html)
+- [What does the Qian hexagram mean? The first hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/qian-hexagram.html)
+- [What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/kun-hexagram.html)
+- [What does retrograde actually mean?](https://mm7382.github.io/learn/en/retrograde.html)
+- [What are the sixty-four hexagrams? Names, trigrams and order explained](https://mm7382.github.io/learn/en/sixty-four-hexagrams.html)
+- [What do the brightness levels of stars mean in Zi Wei Dou Shu?](https://mm7382.github.io/learn/en/star-brightness.html)
+- [How to read a birth chart: the Sun, Moon and Ascendant](https://mm7382.github.io/learn/en/sun-moon-rising.html)
+- [What are the Ten Gods? Reading relationships in a Bazi chart from the Day Master](https://mm7382.github.io/learn/en/ten-gods.html)
+- [What are the twelve houses in a birth chart? A beginner&#x27;s guide](https://mm7382.github.io/learn/en/twelve-houses.html)
+- [Can you read a birth chart without knowing your birth time?](https://mm7382.github.io/learn/en/unknown-birth-time.html)
+- [How to start learning the I Ching: from yin and yang to the eight trigrams and sixty-four hexagrams](https://mm7382.github.io/learn/en/yijian-beginner.html)
+- [Zhou Yi or Yi Jing: what is the difference? The Three Changes and the Ten Wings](https://mm7382.github.io/learn/en/zhouyi-vs-yijing.html)
+- [Zi Wei Dou Shu for beginners: the twelve palaces and the Life Palace](https://mm7382.github.io/learn/en/ziwei-twelve-palaces.html)
+- [Zi Wei Dou Shu vs Bazi: how they differ and which to learn first](https://mm7382.github.io/learn/en/ziwei-vs-bazi.html)
+
+## Full text mirror on GitHub (Markdown, CC BY 4.0)
+
+Every page listed above is also mirrored as plain Markdown in a public GitHub repository, so an assistant or crawler can read the full text without parsing HTML. The site itself remains canonical; each mirrored file links back to its source page. 428 files in all, Traditional Chinese and English.
+
+- [Repository: full text mirror](https://github.com/mm7382/free-iching-bazi-ziwei-astrology-learning): Complete Markdown mirror of this site — beginner articles, every course lesson, all 64 hexagrams, and the tool, app and portfolio pages.
+- [Beginner articles index (37 articles, zh-Hant + en)](https://raw.githubusercontent.com/mm7382/free-iching-bazi-ziwei-astrology-learning/main/articles/README.md): Full text of every beginner article on the I Ching, Bazi, Zi Wei Dou Shu and Western astrology.
+- [Course lessons and 64 hexagrams index](https://raw.githubusercontent.com/mm7382/free-iching-bazi-ziwei-astrology-learning/main/courses/README.md): Full text of the Bazi (20), Zi Wei Dou Shu (36), Western astrology (36) and I Ching (8) lessons, plus all 64 hexagram pages with the classical text and a plain-language reading.
+- [Site, tools, apps and portfolio pages index](https://raw.githubusercontent.com/mm7382/free-iching-bazi-ziwei-astrology-learning/main/pages/README.md): Full text of the free browser tool pages, the app pages and the portfolio case pages.
+
+Licence: the article, lesson and commentary text is released under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — it may be quoted, translated and adapted with attribution to Wei Chun Chuang. The classical text of the Zhou Yi and other classical sources quoted on the hexagram pages is in the public domain. App names, icons, source code and interface design are not covered.
+
+## Author and licence
+
+- [關於作者與使用授權｜入門教學文章](https://mm7382.github.io/learn/about.html)
+- [About the author and licence (CC BY 4.0)](https://mm7382.github.io/learn/en/about.html)
