@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 38 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 39 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -34,6 +34,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [What are luck pillars (Da Yun) in Bazi?](en/luck-pillars.md) — [source](https://mm7382.github.io/learn/en/luck-pillars.html)
 - [Can you build a Bazi chart straight from a lunar birthday?](en/lunar-calendar-bazi.md) — [source](https://mm7382.github.io/learn/en/lunar-calendar-bazi.html)
 - [What are the major stars in Zi Wei Dou Shu? An introduction to the fourteen major stars](en/major-stars.md) — [source](https://mm7382.github.io/learn/en/major-stars.html)
+- [Free online I Ching reading: how to do one properly](en/online-i-ching-reading.md) — [source](https://mm7382.github.io/learn/en/online-i-ching-reading.html)
 - [What does the Qian hexagram mean? The first hexagram of the I Ching in plain words](en/qian-hexagram.md) — [source](https://mm7382.github.io/learn/en/qian-hexagram.html)
 - [What does retrograde actually mean?](en/retrograde.md) — [source](https://mm7382.github.io/learn/en/retrograde.html)
 - [What are the sixty-four hexagrams? Names, trigrams and order explained](en/sixty-four-hexagrams.md) — [source](https://mm7382.github.io/learn/en/sixty-four-hexagrams.html)
@@ -75,6 +76,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [大運是什麼？八字的十年運怎麼排](zh/luck-pillars.md) — [原文](https://mm7382.github.io/learn/luck-pillars.html)
 - [農曆生日可以直接排八字嗎？節氣與換月是怎麼算的](zh/lunar-calendar-bazi.md) — [原文](https://mm7382.github.io/learn/lunar-calendar-bazi.html)
 - [紫微斗數的主星是什麼？十四主星入門](zh/major-stars.md) — [原文](https://mm7382.github.io/learn/major-stars.html)
+- [線上起卦準嗎？免費線上易經占卜的正確做法](zh/online-i-ching-reading.md) — [原文](https://mm7382.github.io/learn/online-i-ching-reading.html)
 - [乾卦是什麼意思？易經第一卦的卦辭與六爻白話解說](zh/qian-hexagram.md) — [原文](https://mm7382.github.io/learn/qian-hexagram.html)
 - [逆行是什麼意思？水逆（水星逆行）到底在說什麼](zh/retrograde.md) — [原文](https://mm7382.github.io/learn/retrograde.html)
 - [六十四卦是什麼？卦名、上下卦與卦序一次看懂](zh/sixty-four-hexagrams.md) — [原文](https://mm7382.github.io/learn/sixty-four-hexagrams.html)

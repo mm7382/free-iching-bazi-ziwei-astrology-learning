@@ -56,7 +56,7 @@
 
 ## 一句老實話
 
-起卦是一套把問題寫清楚、再從一個固定參照點重新思考的練習。起卦前怎麼把問題問對，見[易經要怎麼問問題](https://mm7382.github.io/learn/ask-the-i-ching-a-question.html)。它不會預知結果，也不保證任何事情發生。醫療、法律、投資這類重大決定，請找合格的專業人士。
+起卦是一套把問題寫清楚、再從一個固定參照點重新思考的練習。起卦前怎麼把問題問對，見[易經要怎麼問問題](https://mm7382.github.io/learn/ask-the-i-ching-a-question.html)。沒有銅錢、想用線上工具擲的話，見[線上起卦準嗎](https://mm7382.github.io/learn/online-i-ching-reading.html)。它不會預知結果，也不保證任何事情發生。醫療、法律、投資這類重大決定，請找合格的專業人士。
 
 ## 常見問題
 

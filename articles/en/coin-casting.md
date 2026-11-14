@@ -56,7 +56,7 @@ Before coins, the older method sorted fifty yarrow stalks repeatedly to produce 
 
 ## An honest note
 
-Casting is a practice for stating a question clearly and then thinking it through from a fixed reference point. For how to frame the question before you cast, see [how to ask the I Ching a question](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html). It is not a prediction mechanism and it guarantees nothing. For medical, legal, financial or other major decisions, consult a qualified professional.
+Casting is a practice for stating a question clearly and then thinking it through from a fixed reference point. For how to frame the question before you cast, see [how to ask the I Ching a question](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html). If you have no coins and want to cast with an online tool, see [free online I Ching reading](https://mm7382.github.io/learn/en/online-i-ching-reading.html). It is not a prediction mechanism and it guarantees nothing. For medical, legal, financial or other major decisions, consult a qualified professional.
 
 ## FAQ
 
