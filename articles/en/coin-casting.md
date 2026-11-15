@@ -74,7 +74,7 @@ The usual practice is one casting per question. Recasting because you dislike th
 
 ## Practise with an app
 
-To follow the rules without coins, the [YiJian web version](https://mm7382.github.io/yijian-web/) is free and needs no login: it casts hexagrams and holds all 64 of them. [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is currently in App Store review and not yet released.
+To follow the rules without coins, the [YiJian web version](https://mm7382.github.io/yijian-web/) is free and needs no login: it casts hexagrams and holds all 64 of them. [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is now available free on the App Store.
 
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/coin-casting.html)
 

@@ -74,7 +74,7 @@
 
 ## 想用 App 練習？
 
-想不用銅錢也能照規則練習，[易見網頁版](https://mm7382.github.io/yijian-web/)免登入、免費，可以直接擲卦並查完整六十四卦。另外，[易見](https://mm7382.github.io/yijian/)是一款教你讀《易經》的 iPhone 課程 App，目前已送 App Store 審核，尚未上架。
+想不用銅錢也能照規則練習，[易見網頁版](https://mm7382.github.io/yijian-web/)免登入、免費，可以直接擲卦並查完整六十四卦。另外，[易見](https://mm7382.github.io/yijian/)是一款教你讀《易經》的 iPhone 課程 App，已在 App Store 免費上架。
 
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/coin-casting.html)
 

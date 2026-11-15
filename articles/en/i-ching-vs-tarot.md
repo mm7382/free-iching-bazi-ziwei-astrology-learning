@@ -64,7 +64,7 @@ You can, but two sets of vocabulary at once are easy to confuse. A common approa
 
 ## Practise with an app
 
-If you want to start on the I Ching side, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read it, lesson by lesson: where the six lines come from, how to look at the sixty-four hexagrams, and how to read the line texts. It is currently in App Store review and not yet released. To try it first, there is a free [web version](https://mm7382.github.io/yijian-web/) with no login.
+If you want to start on the I Ching side, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read it, lesson by lesson: where the six lines come from, how to look at the sixty-four hexagrams, and how to read the line texts. It is now available free on the App Store. To try it first, there is a free [web version](https://mm7382.github.io/yijian-web/) with no login.
 
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/i-ching-vs-tarot.html)
 

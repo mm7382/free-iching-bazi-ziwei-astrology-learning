@@ -78,7 +78,7 @@ Line statements are numbered by position, from the bottom upward: first, second,
 
 ## Practise with an app
 
-If you would rather not work through a table by hand, the [YiJian web version](https://mm7382.github.io/yijian-web/) is free and needs no login: it casts hexagrams and holds all 64 of them. [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is currently in App Store review and not yet released.
+If you would rather not work through a table by hand, the [YiJian web version](https://mm7382.github.io/yijian-web/) is free and needs no login: it casts hexagrams and holds all 64 of them. [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is now available free on the App Store.
 
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/hexagram-lookup.html)
 

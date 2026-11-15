@@ -96,7 +96,7 @@
 
 ## 想用 App 練習？
 
-想不用銅錢也照同一套規則練習，[易見網頁版起卦](https://mm7382.github.io/yijian-web/cast/)免登入、免費，擲完會直接按上面的規則標出主讀的那一段，也可以自己填入六爻數字查看解讀。整套讀法的課程在[八堂入門課](https://mm7382.github.io/yijian-web/lessons/)。另外，[易見](https://mm7382.github.io/yijian/)是一款教你讀《易經》的 iPhone 課程 App，目前已送 App Store 審核，尚未上架。
+想不用銅錢也照同一套規則練習，[易見網頁版起卦](https://mm7382.github.io/yijian-web/cast/)免登入、免費，擲完會直接按上面的規則標出主讀的那一段，也可以自己填入六爻數字查看解讀。整套讀法的課程在[八堂入門課](https://mm7382.github.io/yijian-web/lessons/)。另外，[易見](https://mm7382.github.io/yijian/)是一款教你讀《易經》的 iPhone 課程 App，已在 App Store 免費上架。
 
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/interpret-a-reading.html)
 

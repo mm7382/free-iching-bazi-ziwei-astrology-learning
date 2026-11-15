@@ -64,7 +64,7 @@
 
 ## 想用 App 練習？
 
-如果你想從易經這邊開始，[易見](https://mm7382.github.io/yijian/)是一款教你讀易經的 iPhone 課程 App：從六爻怎麼來、六十四卦怎麼看，到卦爻辭怎麼讀，一堂一堂帶。目前已送 App Store 審核，尚未上架。想先試試看，可以用免費、免登入的網頁版[易見網頁版](https://mm7382.github.io/yijian-web/)。
+如果你想從易經這邊開始，[易見](https://mm7382.github.io/yijian/)是一款教你讀易經的 iPhone 課程 App：從六爻怎麼來、六十四卦怎麼看，到卦爻辭怎麼讀，一堂一堂帶。已在 App Store 免費上架。想先試試看，可以用免費、免登入的網頁版[易見網頁版](https://mm7382.github.io/yijian-web/)。
 
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
 

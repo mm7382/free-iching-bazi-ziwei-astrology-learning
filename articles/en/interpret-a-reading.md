@@ -96,7 +96,7 @@ The value of this sequence is that it is fixed: with the rule set in advance, yo
 
 ## Practise with an app
 
-To follow the same rules without coins, [casting on the YiJian web version](https://mm7382.github.io/yijian-web/cast/) is free and needs no login: it marks the main passage by the rules above, and you can also type in your own six numbers. The full course is in the [eight beginner lessons](https://mm7382.github.io/yijian-web/lessons/en/). [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is currently in App Store review and not yet released.
+To follow the same rules without coins, [casting on the YiJian web version](https://mm7382.github.io/yijian-web/cast/) is free and needs no login: it marks the main passage by the rules above, and you can also type in your own six numbers. The full course is in the [eight beginner lessons](https://mm7382.github.io/yijian-web/lessons/en/). [YiJian](https://mm7382.github.io/yijian/) is an iPhone course app that teaches you to read the I Ching; it is now available free on the App Store.
 
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/interpret-a-reading.html)
 
