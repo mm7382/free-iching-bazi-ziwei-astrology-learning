@@ -28,7 +28,7 @@ Enter a birth date, time and city and the chart is calculated for you: year, mon
 
 Every lesson has an English version.
 
-[Open Shilai Bazi](https://mm7382.github.io/bazi-web/) · [Start lesson 1 in English](https://mm7382.github.io/bazi-web/learn/F01/en/)
+[Open Shilai Bazi](https://mm7382.github.io/bazi-web/) · [Start lesson 1 in English](https://mm7382.github.io/bazi-web/learn/F01/en/) · [About the iPhone app](https://mm7382.github.io/bazi/en/)
 
 ### Shilai Ziwei — Zi Wei Dou Shu chart and 36 lessons
 
@@ -36,7 +36,7 @@ A twelve-palace chart with the main stars placed, the opposite palace, the three
 
 Every lesson has an English version.
 
-[Open Shilai Ziwei](https://mm7382.github.io/ziwei-web/) · [Start lesson 1 in English](https://mm7382.github.io/ziwei-web/learn/L01/en/)
+[Open Shilai Ziwei](https://mm7382.github.io/ziwei-web/) · [Start lesson 1 in English](https://mm7382.github.io/ziwei-web/learn/L01/en/) · [About the iPhone app](https://mm7382.github.io/ziwei/en/)
 
 ### Shilai Astrology — Western birth chart and 36 lessons
 
@@ -44,7 +44,7 @@ A Placidus birth chart with today's sky and the transit that triggers it. Withou
 
 Every lesson has an English version.
 
-[Open Shilai Astrology](https://mm7382.github.io/astrology-web/) · [Start lesson 1 in English](https://mm7382.github.io/astrology-web/learn/core-01/en/)
+[Open Shilai Astrology](https://mm7382.github.io/astrology-web/) · [Start lesson 1 in English](https://mm7382.github.io/astrology-web/learn/core-01/en/) · [About the iPhone app](https://mm7382.github.io/astrology/en/)
 
 ## Beginner articles
 
