@@ -36,6 +36,40 @@ For exact dates, consult an ephemeris or work them out from NASA's public planet
 
 Retrograde motion does not begin abruptly. Before and after the turn, the planet's apparent motion slows until, for a few days, it seems to sit at nearly the same degree. That is a station. The moment before direct motion becomes retrograde is the retrograde station; the moment before it resumes forward motion is the direct station. The start and end dates printed in an ephemeris are those two station points.
 
+## What is retrograde called in Chinese, and what do the ephemeris abbreviations mean?
+
+A few fixed terms turn up whenever you read an ephemeris or a Chinese-language source.
+
+**Apparent retrograde motion**
+
+逆行 (ni xing). In speech, simply retrograde.
+
+**Mercury retrograde**
+
+水星逆行, usually shortened in everyday Chinese to 水逆 (shui ni).
+
+**Direct motion**
+
+順行 (shun xing), also called prograde.
+
+**Station**
+
+停滯. The turn into retrograde is the station retrograde; the turn back is the station direct.
+
+**Ephemeris**
+
+星曆, the table of daily planetary positions.
+
+English ephemerides mark it with abbreviations: Rx or ℞ after a planet means it is retrograde, SRx is the retrograde station and SD the direct station. So Mercury Rx simply reads as Mercury being retrograde.
+
+## Do comets and asteroids go retrograde too? A retrograde orbit is a different thing
+
+Yes. Seen from Earth, any body orbiting the Sun can show apparent retrograde motion, asteroids and comets included, for exactly the same reason as the planets: we watch one moving body from another moving body, and all we see is relative position.
+
+Astronomy also uses a similar-sounding term with a quite different meaning: a **retrograde orbit**. That describes a body genuinely travelling the opposite way round, with an orbital inclination greater than 90 degrees. Halley's Comet is one, at an inclination of about 162 degrees; it really does run counter to most of the Solar System.
+
+So keep the two apart. Mercury retrograde is a reversal in appearance only, with no change in the body's own motion. A retrograde orbit is a real reversal and a permanent property of the orbit. Astrology always means the first and never involves orbital inclination.
+
 ## How does astrological practice read it?
 
 In the astrological tradition a retrograde planet is generally not treated as broken or disabled, but as the same planet turned inward or revisited: a function that normally expresses outward is instead reviewing, sorting and revising. So the usual reading is re-reading, re-negotiating and redoing, not being unable to act.
@@ -61,6 +95,32 @@ Roughly three to four times a year, for about three weeks each time. For a few d
 **Does Mercury retrograde break electronics or delay flights?**
 
 There is no established physical mechanism by which retrograde motion affects electronics, travel or communication. This article describes the astronomy and the interpretive practice separately and does not claim the latter predicts events. Plan important trips and decisions on ordinary practical grounds.
+
+**What does retrograde mean, in one sentence?**
+
+Retrograde is the stretch during which a planet appears, from Earth, to move backwards against the background stars. It is an appearance; the planet itself does not reverse. Astrology reads the period as a time for review and revision, but that is an interpretive language, not a testable cause.
+
+**What is Mercury retrograde called in Chinese?**
+
+水星逆行, usually shortened to 水逆. 逆行 on its own is retrograde motion, 順行 is direct motion and 停滯 is a station. English ephemerides write Rx or ℞, so Mercury Rx means Mercury is retrograde.
+
+**Do comets go retrograde?**
+
+Seen from Earth they can, by the same relative-motion effect as the planets. Separately, astronomy calls an orbit retrograde when the body genuinely travels the opposite way round; Halley's Comet, inclined at about 162 degrees, is an example.
+
+## Further reading
+
+Retrograde motion is one detail on a chart. To read the whole chart, carry on with these:
+
+- [How to read the Sun, Moon and Ascendant](https://mm7382.github.io/learn/en/sun-moon-rising.html) — the first three placements to look at.
+
+- [What aspects are](https://mm7382.github.io/learn/en/aspects.html) — the angles between planets, and how a retrograde planet aspects the rest.
+
+- [An introduction to the twelve houses](https://mm7382.github.io/learn/en/twelve-houses.html) — the house a retrograde planet falls in sets which area of life the reading describes.
+
+- [Elements and modalities](https://mm7382.github.io/learn/en/elements-modalities.html) — fire, earth, air and water; cardinal, fixed and mutable.
+
+- [How to choose an astrology app](https://mm7382.github.io/learn/en/how-to-choose-astrology-app.html) — what a chart tool needs, retrograde markers included.
 
 ## See whether your chart has retrograde planets
 

@@ -51,7 +51,7 @@ The canonical, most up-to-date version of every page is on the site itself; each
 - [教學測驗與文件套件｜試卷與評分資料](work/zh/document-kit.md) — [原文](https://mm7382.github.io/work/document-kit.html)
 - [LINE 貼圖角色設計｜獅子角色概念稿](work/zh/lion-character.md) — [原文](https://mm7382.github.io/work/lion-character.html)
 - [中文閱讀測驗文件範本｜作品介紹](work/zh/reading-template.md) — [原文](https://mm7382.github.io/work/reading-template.html)
-- [排得好｜排班與班表分享 App・測試中](work/zh/shiftok.md) — [原文](https://mm7382.github.io/work/shiftok.html)
+- [排得好｜排班與班表分享 App・App Store 上架中](work/zh/shiftok.md) — [原文](https://mm7382.github.io/work/shiftok.html)
 - [Sugar Boom｜糖果射擊手機遊戲・開發中](work/zh/sugar-boom.md) — [原文](https://mm7382.github.io/work/sugar-boom.html)
 - [AI 情境主視覺設計｜產品、教學與工作場景](work/zh/visual-scenes.md) — [原文](https://mm7382.github.io/work/visual-scenes.html)
 - [易見｜易經入門學習 App 與網頁版](work/zh/yijian.md) — [原文](https://mm7382.github.io/work/yijian.html)
