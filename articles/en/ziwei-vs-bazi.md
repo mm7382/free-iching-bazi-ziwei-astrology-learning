@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-15
 
-*Zi Wei Dou Shu and Bazi are the two Chinese metaphysical systems people mention most.*
+*Zi Wei Dou Shu and Bazi are the two Chinese metaphysical systems people mention most. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

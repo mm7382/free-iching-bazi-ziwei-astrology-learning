@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 39 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 40 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -46,6 +46,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [Can you read a birth chart without knowing your birth time?](en/unknown-birth-time.md) — [source](https://mm7382.github.io/learn/en/unknown-birth-time.html)
 - [How to start learning the I Ching: from yin and yang to the eight trigrams and sixty-four hexagrams](en/yijian-beginner.md) — [source](https://mm7382.github.io/learn/en/yijian-beginner.html)
 - [Zhou Yi or Yi Jing: what is the difference? The Three Changes and the Ten Wings](en/zhouyi-vs-yijing.md) — [source](https://mm7382.github.io/learn/en/zhouyi-vs-yijing.html)
+- [The fourteen major stars of Zi Wei Dou Shu: a reference table](en/ziwei-fourteen-major-stars.md) — [source](https://mm7382.github.io/learn/en/ziwei-fourteen-major-stars.html)
 - [Zi Wei Dou Shu for beginners: the twelve palaces and the Life Palace](en/ziwei-twelve-palaces.md) — [source](https://mm7382.github.io/learn/en/ziwei-twelve-palaces.html)
 - [Zi Wei Dou Shu vs Bazi: how they differ and which to learn first](en/ziwei-vs-bazi.md) — [source](https://mm7382.github.io/learn/en/ziwei-vs-bazi.html)
 
@@ -88,5 +89,6 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [不知道出生時間，還能看星盤嗎？](zh/unknown-birth-time.md) — [原文](https://mm7382.github.io/learn/unknown-birth-time.html)
 - [易經初學者怎麼開始：從陰陽、八卦到六十四卦](zh/yijian-beginner.md) — [原文](https://mm7382.github.io/learn/yijian-beginner.html)
 - [周易和易經有什麼不同？連山、歸藏與十翼一次說清楚](zh/zhouyi-vs-yijing.md) — [原文](https://mm7382.github.io/learn/zhouyi-vs-yijing.html)
+- [紫微斗數十四主星對照表：每顆星的本質、讀法與落宮](zh/ziwei-fourteen-major-stars.md) — [原文](https://mm7382.github.io/learn/ziwei-fourteen-major-stars.html)
 - [紫微斗數入門：十二宮與命宮](zh/ziwei-twelve-palaces.md) — [原文](https://mm7382.github.io/learn/ziwei-twelve-palaces.html)
 - [紫微斗數和八字有什麼不同？初學該從哪個開始](zh/ziwei-vs-bazi.md) — [原文](https://mm7382.github.io/learn/ziwei-vs-bazi.html)

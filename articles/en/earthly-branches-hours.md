@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-24
 
-*Any Bazi chart asks what time you were born, because the hour pillar depends on it.*
+*Any Bazi chart asks what time you were born, because the hour pillar depends on it. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

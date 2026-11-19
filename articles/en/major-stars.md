@@ -92,6 +92,8 @@ That is an empty palace. A common approach is to borrow the opposite palace's ma
 
 The third free lesson in [SHILAI Ziwei](https://mm7382.github.io/ziwei/) is "Finding the major stars in your Life Palace". The app builds your twelve-palace chart from your birth details so you can learn the stars on your own chart, and the first three lessons can be finished without entering a birthday. Every explanation is labelled as classical passage, plain-language restatement or the project's own wording, with classical lines taken only from volumes 1–3 of the Ziwei Doushu Quanshu, and it gives no fortune verdicts. The app is coming soon.
 
+For a deeper, star-by-star reference, see [The fourteen major stars: a reference table](https://mm7382.github.io/learn/en/ziwei-fourteen-major-stars.html).
+
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/major-stars.html)
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html). Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution.

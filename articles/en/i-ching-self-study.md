@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-15
 
-*Many people want to read the I Ching but worry they can't follow it without a teacher.*
+*Many people want to read the I Ching but worry they can't follow it without a teacher. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

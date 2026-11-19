@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-15
 
-*There are many I Ching apps, some focused on casting and others on reading the text.*
+*There are many I Ching apps, some focused on casting and others on reading the text. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

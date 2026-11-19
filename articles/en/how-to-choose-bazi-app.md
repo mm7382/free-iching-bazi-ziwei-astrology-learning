@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-15
 
-*There are many Bazi apps, but showing you a chart and teaching you to read it are two different things.*
+*There are many Bazi apps, but showing you a chart and teaching you to read it are two different things. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

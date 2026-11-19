@@ -92,6 +92,8 @@
 
 [時來－紫微](https://mm7382.github.io/ziwei/)的第三堂免費課就是「找出自己命宮的主星」。App 會依出生資料排出十二宮命盤，讓你在自己的盤上認星；前三堂不用先填生日也能上完。每句解釋都分成古籍原文、白話轉述與本專案自撰三層，古籍原文只取自《紫微斗數全書》卷一至卷三，不算吉凶。App 即將上架。
 
+想往下一層看每顆主星的落宮表現與常見誤解，可以看 [紫微斗數十四主星對照表](https://mm7382.github.io/learn/ziwei-fourteen-major-stars.html)。
+
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/major-stars.html)
 
 ---

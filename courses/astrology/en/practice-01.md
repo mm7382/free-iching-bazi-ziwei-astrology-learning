@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)
 
-*By the end your own chart is set up in this app, and you know what each field you filled in actually changes.*
+*Build Your First Chart: By the end your own chart is set up in this app, and you know what each field you filled in actually changes. One of 36 free plain-language Shilai Astrology lessons; no login needed.*
 
 ---
 

@@ -4,7 +4,7 @@
 
 作者：[Wei Chun Chuang](https://mm7382.github.io/learn/about.html)
 
-*探索 AI 應用、排班 App、互動遊戲、網站與視覺設計作品，查看實際成果、用途與開發狀態。*
+*Michael Agent Lab 作品集：App Store 上架的易見、排得好等 iPhone App，免費易經、八字、紫微斗數與西洋占星學習網站，以及互動遊戲、網站與視覺設計作品，附實際畫面與開發狀態。*
 
 ---
 

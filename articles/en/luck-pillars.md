@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-24
 
-*A Bazi chart's four pillars are fixed, but traditional reading does not stop at those eight characters.*
+*A Bazi chart's four pillars are fixed, but traditional reading does not stop at those eight characters. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

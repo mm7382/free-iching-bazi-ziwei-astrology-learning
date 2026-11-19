@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)
 
-*By the end you will know which side of you Mercury describes, and why it always stays near the Sun.*
+*Mercury: Thinking and Speaking: By the end you will know which side of you Mercury describes, and why it always stays near the Sun. One of 36 free plain-language Shilai Astrology lessons; no login needed.*
 
 ---
 

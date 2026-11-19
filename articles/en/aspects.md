@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-24
 
-*Once you know which sign and house each planet falls in, the next layer is aspects.*
+*Once you know which sign and house each planet falls in, the next layer is aspects. A free plain-English beginner guide with answers to common questions.*
 
 ---
 

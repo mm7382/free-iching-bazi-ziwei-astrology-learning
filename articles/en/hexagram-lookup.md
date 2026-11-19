@@ -4,7 +4,7 @@
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)・2026-10-24
 
-*Once you have six lines, you need to know which of the sixty-four hexagrams they are.*
+*Once you have six lines, you need to know which of the sixty-four hexagrams they are. A free plain-English beginner guide with answers to common questions.*
 
 ---
 
