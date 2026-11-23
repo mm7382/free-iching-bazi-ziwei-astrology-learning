@@ -94,6 +94,8 @@ Yes, they are the same twelve branches, but the animal people quote is the year 
 
 To see how your own double-hour becomes an hour pillar, [Shilai – Bazi](https://mm7382.github.io/bazi/) is an iPhone course that teaches you to read Bazi, with the four pillars calculated for you. It is currently in App Store review and not yet released, so it cannot be downloaded. In the meantime the [free web version](https://mm7382.github.io/bazi-web/) builds a chart with no sign-up or login and includes 20 lessons you can read alongside the hour table.
 
+Which ten-day cycle the day pillar sits in also decides the chart's void branches; see [what kong wang means](https://mm7382.github.io/learn/en/kong-wang.html).
+
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/earthly-branches-hours.html)
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html). Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution.

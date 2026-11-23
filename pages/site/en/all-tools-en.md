@@ -8,6 +8,12 @@ Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)
 
 ---
 
+FEATURED PROJECT
+
+## AI Worlds
+
+What happens when AI characters are free to make their own decisions? Follow Adam and Eve as they look for water, build shelter, and learn to work together.
+
 Free browser tools
 
 **All four run in your browser with no account, no login, no email and no ads.** Cast an I Ching hexagram, build a Four Pillars chart, lay out a twelve-palace Zi Wei Dou Shu chart, or draw a Western birth chart — and read a complete course alongside each one. Charts and notes stay in your own browser and are never uploaded.

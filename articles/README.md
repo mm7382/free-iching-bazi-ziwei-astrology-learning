@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 40 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 42 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -15,6 +15,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [Bazi for beginners: how to read the four pillars, stems, branches and the Five Phases](en/bazi-four-pillars.md) — [source](https://mm7382.github.io/learn/en/bazi-four-pillars.html)
 - [What are changing lines, the primary hexagram and the resulting hexagram?](en/changing-lines.md) — [source](https://mm7382.github.io/learn/en/changing-lines.html)
 - [How do you cast an I Ching hexagram with three coins?](en/coin-casting.md) — [source](https://mm7382.github.io/learn/en/coin-casting.html)
+- [Is my Day Master strong or weak? Day Master strength and the favourable element](en/day-master-strength.md) — [source](https://mm7382.github.io/learn/en/day-master-strength.html)
 - [What is the Day Master? How to find yours in a Bazi chart](en/day-master.md) — [source](https://mm7382.github.io/learn/en/day-master.html)
 - [How do the twelve earthly branches map to clock hours?](en/earthly-branches-hours.md) — [source](https://mm7382.github.io/learn/en/earthly-branches-hours.html)
 - [What are the eight trigrams? Qian, Kun, Zhen, Xun, Kan, Li, Gen and Dui explained](en/eight-trigrams.md) — [source](https://mm7382.github.io/learn/en/eight-trigrams.html)
@@ -29,6 +30,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [Can you teach yourself the I Ching? A self-study order that works](en/i-ching-self-study.md) — [source](https://mm7382.github.io/learn/en/i-ching-self-study.html)
 - [What is the difference between the I Ching and tarot?](en/i-ching-vs-tarot.md) — [source](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
 - [How do you interpret an I Ching reading?](en/interpret-a-reading.md) — [source](https://mm7382.github.io/learn/en/interpret-a-reading.html)
+- [What does kong wang (void emptiness) mean in a Bazi chart?](en/kong-wang.md) — [source](https://mm7382.github.io/learn/en/kong-wang.html)
 - [What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](en/kun-hexagram.md) — [source](https://mm7382.github.io/learn/en/kun-hexagram.html)
 - [What is the difference between the Life Palace and the Body Palace?](en/life-body-palace.md) — [source](https://mm7382.github.io/learn/en/life-body-palace.html)
 - [What are luck pillars (Da Yun) in Bazi?](en/luck-pillars.md) — [source](https://mm7382.github.io/learn/en/luck-pillars.html)
@@ -58,6 +60,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [八字入門：四柱、天干地支與五行怎麼看](zh/bazi-four-pillars.md) — [原文](https://mm7382.github.io/learn/bazi-four-pillars.html)
 - [動爻、本卦與之卦是什麼？](zh/changing-lines.md) — [原文](https://mm7382.github.io/learn/changing-lines.html)
 - [三枚銅錢起卦怎麼做？擲六次的規則與記錄方式](zh/coin-casting.md) — [原文](https://mm7382.github.io/learn/coin-casting.html)
+- [身強身弱怎麼看？日主強弱與喜用神入門](zh/day-master-strength.md) — [原文](https://mm7382.github.io/learn/day-master-strength.html)
 - [日主是什麼？怎麼從八字找到自己的日主](zh/day-master.md) — [原文](https://mm7382.github.io/learn/day-master.html)
 - [十二時辰怎麼對應現在的時間？子丑寅卯一次看懂](zh/earthly-branches-hours.md) — [原文](https://mm7382.github.io/learn/earthly-branches-hours.html)
 - [八卦是什麼？乾坤震巽坎離艮兌一次看懂](zh/eight-trigrams.md) — [原文](https://mm7382.github.io/learn/eight-trigrams.html)
@@ -72,6 +75,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [易經可以自學嗎？自學順序怎麼排](zh/i-ching-self-study.md) — [原文](https://mm7382.github.io/learn/i-ching-self-study.html)
 - [易經和塔羅有什麼不同？初學該選哪一個](zh/i-ching-vs-tarot.md) — [原文](https://mm7382.github.io/learn/i-ching-vs-tarot.html)
 - [起完卦之後怎麼解讀？讀卦的六個步驟與取文規則](zh/interpret-a-reading.md) — [原文](https://mm7382.github.io/learn/interpret-a-reading.html)
+- [空亡是什麼意思？六十甲子的旬空與常見讀法](zh/kong-wang.md) — [原文](https://mm7382.github.io/learn/kong-wang.html)
 - [坤卦是什麼意思？易經第二卦的卦辭與六爻白話解說](zh/kun-hexagram.md) — [原文](https://mm7382.github.io/learn/kun-hexagram.html)
 - [命宮與身宮有什麼不同？](zh/life-body-palace.md) — [原文](https://mm7382.github.io/learn/life-body-palace.html)
 - [大運是什麼？八字的十年運怎麼排](zh/luck-pillars.md) — [原文](https://mm7382.github.io/learn/luck-pillars.html)

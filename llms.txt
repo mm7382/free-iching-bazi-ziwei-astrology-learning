@@ -15,7 +15,7 @@
 ## Apps
 - [易見 YiJian](https://mm7382.github.io/yijian/): YiJian (易見): iPhone course teaching the I Ching from zero. 8 interactive beginner lessons (3 free), guided reading of all 64 hexagrams with diagrams and quizzes, spaced review and mistakes notebook. Casting is a practice feature for reflection. Traditional Chinese and English. No account. Available on the App Store: https://apps.apple.com/tw/app/id6816324095 Details: https://mm7382.github.io/yijian/llms.txt
 - [時來－八字 Shilai – Bazi](https://mm7382.github.io/bazi/): Shilai – Bazi: beginner iPhone course for reading your own Bazi (Four Pillars) chart. App calculates the chart; 20 plain-language lessons (3 free) cover pillars, stems and branches, Five Phases, Day Master, Ten Gods, combinations and clashes. Ungraded quizzes, daily question, notes and review. Traditional Chinese and English. No account; data on device. In App Store review.
-- [時來－紫微 SHILAI Ziwei](https://mm7382.github.io/ziwei/): SHILAI Ziwei: iPhone course for reading your own Zi Wei Dou Shu (Purple Star Astrology) twelve-palace chart. 36 lessons (3 free, usable before creating a chart); each explanation labelled classical passage / restatement / own wording, classical lines only from Ziwei Doushu Quanshu vols 1–3. No fortune verdicts. Traditional Chinese and English. No account. Coming soon.
+- [時來－紫微 SHILAI Ziwei](https://mm7382.github.io/ziwei/): SHILAI Ziwei: iPhone course for reading your own Zi Wei Dou Shu (Purple Star Astrology) twelve-palace chart. 36 lessons (3 free, usable before creating a chart); each explanation labelled classical passage / restatement / own wording, classical lines only from Ziwei Doushu Quanshu vols 1–3. No fortune verdicts. Traditional Chinese and English. No account. Available on the App Store: https://apps.apple.com/tw/app/id6821574290
 - [時來－星座 Shilai Astrology](https://mm7382.github.io/astrology/): Shilai Astrology: iPhone app teaching Western astrology in plain language. 3 free lessons (what a chart is; Sun/Moon/Ascendant; modalities and elements of the signs). Placidus chart; without a birth time it shows only what is certain and leaves Ascendant/houses blank. Today's sky with the triggering transit shown. Public-domain sources (Ptolemy, Lilly, NASA). No account, offline. In development.
 
 ## App pages in English (static, no login)
@@ -72,6 +72,8 @@
 - [農曆生日可以直接排八字嗎？節氣與換月是怎麼算的｜Can you build a Bazi chart from a lunar birthday?](https://mm7382.github.io/learn/lunar-calendar-bazi.html)
 - [紫微斗數的主星是什麼？十四主星入門｜What are the major stars in Zi Wei Dou Shu?](https://mm7382.github.io/learn/major-stars.html)
 - [紫微斗數十四主星對照表：每顆星的本質、讀法與落宮｜The fourteen major stars of Zi Wei Dou Shu: a reference table](https://mm7382.github.io/learn/ziwei-fourteen-major-stars.html)
+- [身強身弱怎麼看？日主強弱與喜用神入門｜Is my Day Master strong or weak? Day Master strength and the favourable element](https://mm7382.github.io/learn/day-master-strength.html)
+- [空亡是什麼意思？六十甲子的旬空與常見讀法｜What does kong wang (void emptiness) mean in a Bazi chart?](https://mm7382.github.io/learn/kong-wang.html)
 - [逆行是什麼意思？水逆（水星逆行）到底在說什麼｜What does retrograde actually mean?](https://mm7382.github.io/learn/retrograde.html)
 - [廟旺利陷是什麼意思？紫微斗數的星曜亮度｜Star brightness in Zi Wei Dou Shu](https://mm7382.github.io/learn/star-brightness.html)
 - [星盤怎麼看：太陽、月亮、上升｜How to read a birth chart](https://mm7382.github.io/learn/sun-moon-rising.html)
@@ -363,6 +365,8 @@
 - [Can you build a Bazi chart straight from a lunar birthday?](https://mm7382.github.io/learn/en/lunar-calendar-bazi.html)
 - [What are the major stars in Zi Wei Dou Shu? An introduction to the fourteen major stars](https://mm7382.github.io/learn/en/major-stars.html)
 - [The fourteen major stars of Zi Wei Dou Shu: a reference table](https://mm7382.github.io/learn/en/ziwei-fourteen-major-stars.html)
+- [Is my Day Master strong or weak? Day Master strength and the favourable element](https://mm7382.github.io/learn/en/day-master-strength.html)
+- [What does kong wang (void emptiness) mean in a Bazi chart?](https://mm7382.github.io/learn/en/kong-wang.html)
 - [What does the Qian hexagram mean? The first hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/qian-hexagram.html)
 - [What does the Kun hexagram mean? The second hexagram of the I Ching in plain words](https://mm7382.github.io/learn/en/kun-hexagram.html)
 - [What does the Tai hexagram mean? Hexagram 11 of the I Ching in plain words](https://mm7382.github.io/learn/en/tai-hexagram.html)

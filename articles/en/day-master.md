@@ -54,6 +54,8 @@ Because every relationship in the chart is described relative to it. Based on th
 
 Beginners can do two things. First, remember your Day Master's phase and polarity. Second, check which phase each of the other seven characters belongs to and whether it produces, controls or matches your Day Master. That is the first step to reading a Bazi chart.
 
+Adding those seven relationships up leads to the next common question: is the Day Master strong or weak in this chart, and which phase is favourable? That is the subject of [Is my Day Master strong or weak?](https://mm7382.github.io/learn/en/day-master-strength.html)
+
 ## FAQ
 
 **Is the Day Master the same as the Chinese zodiac animal?**
@@ -66,7 +68,7 @@ With the same day-change rule, people born on the same day share a day pillar an
 
 **Is a Day Master strong or weak?**
 
-Traditionally readers assess how much support the Day Master receives from the rest of the chart. That is an advanced topic; beginners should first find it and learn its phase and polarity.
+Traditionally readers assess how much support the Day Master receives from the rest of the chart. Beginners should first find it and learn its phase and polarity; for the next level see [Is my Day Master strong or weak?](https://mm7382.github.io/learn/en/day-master-strength.html)
 
 ## Practise with an app
 

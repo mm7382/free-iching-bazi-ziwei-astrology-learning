@@ -94,6 +94,8 @@
 
 想直接看自己的時辰怎麼變成時柱，[時來－八字](https://mm7382.github.io/bazi/)是一款教你讀八字的 iPhone 課程 App，四柱由 App 計算。目前已送 App Store 審核，尚未上架，還不能下載。想先試的話，[網頁版](https://mm7382.github.io/bazi-web/)免註冊、免登入即可排出命盤，並附二十堂課，可以邊對照時辰邊讀。
 
+另外，日柱落在六十甲子的哪一旬，決定了這張盤的空亡是哪兩個地支，接著可以看[空亡是什麼意思](https://mm7382.github.io/learn/kong-wang.html)。
+
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/earthly-branches-hours.html)
 
 ---
