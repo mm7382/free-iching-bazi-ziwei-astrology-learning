@@ -58,6 +58,8 @@ Not as a separate step. Choose an edition with notes and a modern translation an
 
 Yes, as a way to check what you have learned and reflect on your situation. What matters is understanding the texts, not letting a result make decisions for you.
 
+For a worked example of reading a hexagram as a whole year of action, see [The 2027 I Ching Year Guide: Approach and the rhythm of the year](https://mm7382.github.io/learn/en/2027-i-ching-year-guide.html), free to read in full.
+
 ## Practise with an app
 
 If you would like this route laid out for you, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course that teaches the I Ching from zero: eight interactive beginner lessons (the first three free) take you from yin and yang through the trigrams to the sixty-four hexagrams, each with an illustrated guide and quiz, plus spaced review and a mistakes notebook. Casting in the app is a practice feature for reflection; it does not make decisions for you.

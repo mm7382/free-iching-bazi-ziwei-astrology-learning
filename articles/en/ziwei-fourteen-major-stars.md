@@ -354,7 +354,7 @@ Yes. The text is licensed CC BY 4.0, so it may be reproduced and adapted with at
 
 ## See these stars on your own chart
 
-The SHILAI Ziwei web version is free, with no sign-up and no login. It builds your twelve-palace chart from your birth details and comes with 36 lessons, so you can learn the stars on your own chart. There is also an iPhone app, 時來－紫微, which is still in development, not yet released and not available to download.
+The SHILAI Ziwei web version is free, with no sign-up and no login. It builds your twelve-palace chart from your birth details and comes with 36 lessons, so you can learn the stars on your own chart. There is also an iPhone app, [SHILAI Ziwei](https://mm7382.github.io/ziwei/), which is now available to download on the [App Store](https://apps.apple.com/tw/app/id6821574290).
 
 [更多入門文章](https://mm7382.github.io/learn/)
 

@@ -354,7 +354,7 @@
 
 ## 想在自己的命盤上看這些星？
 
-可以用時來－紫微網頁版：免註冊、免登入、免費，會依出生資料排出你的十二宮命盤並附上 36 堂課，讓你在自己的盤上認星。另外還有一款 iPhone App 時來－紫微，目前仍在開發中，尚未上架，不能下載。
+可以用時來－紫微網頁版：免註冊、免登入、免費，會依出生資料排出你的十二宮命盤並附上 36 堂課，讓你在自己的盤上認星。另外還有一款 iPhone App [時來－紫微](https://mm7382.github.io/ziwei/)，已經在 [App Store](https://apps.apple.com/tw/app/id6821574290) 上架，可以直接下載。
 
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/ziwei-fourteen-major-stars.html)
 

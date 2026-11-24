@@ -86,6 +86,8 @@ Not all at once. Once you know the eight trigrams, you can understand any hexagr
 
 The trigrams are the building blocks. The body of the I Ching is the sixty-four hexagrams formed from pairs of trigrams, together with the texts that explain them.
 
+For a worked example of reading a hexagram as a whole year of action, see [The 2027 I Ching Year Guide: Approach and the rhythm of the year](https://mm7382.github.io/learn/en/2027-i-ching-year-guide.html), free to read in full.
+
 ## Practise with an app
 
 If you want structured practice, [YiJian](https://mm7382.github.io/yijian/) is an iPhone course that teaches the I Ching from zero: eight interactive beginner lessons (the first three free), guided reading of all sixty-four hexagrams with diagrams and quizzes, plus spaced review and a mistakes notebook. Casting in the app is a practice feature for reflection; it does not hand you conclusions.

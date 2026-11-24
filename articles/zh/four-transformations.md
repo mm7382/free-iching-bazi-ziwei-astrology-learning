@@ -76,7 +76,7 @@
 
 ## 想用 App 練習？
 
-想在自己的盤上找出那四顆星，[時來－紫微](https://mm7382.github.io/ziwei/)是一款教你讀紫微斗數的 iPhone 課程 App，目前仍在製作中，尚未上架，無法下載。想現在就看盤的話，可以用免費、免登入的網頁版[時來－紫微 網頁版](https://mm7382.github.io/ziwei-web/)：它會排出十二宮命盤，並附 36 堂課，四化是其中一個單元。
+想在自己的盤上找出那四顆星，[時來－紫微](https://mm7382.github.io/ziwei/)是一款教你讀紫微斗數的 iPhone 課程 App，已經在 [App Store](https://apps.apple.com/tw/app/id6821574290) 上架，可以直接下載。不想裝 App 的話，也可以用免費、免登入的網頁版[時來－紫微 網頁版](https://mm7382.github.io/ziwei-web/)：它會排出十二宮命盤，並附 36 堂課，四化是其中一個單元。
 
 [更多入門文章](https://mm7382.github.io/learn/)・[English version](https://mm7382.github.io/learn/en/four-transformations.html)
 

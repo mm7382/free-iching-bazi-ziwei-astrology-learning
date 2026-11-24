@@ -76,7 +76,7 @@ Birth-year transformations come from the stem of your birth year and sit permane
 
 ## Practise with an app
 
-To find those four stars on your own chart, [SHILAI Ziwei](https://mm7382.github.io/ziwei/) is an iPhone course app that teaches you to read Zi Wei Dou Shu. It is still being built, is not yet released and cannot be downloaded. If you want to look at a chart now, the free web version, [SHILAI Ziwei on the web](https://mm7382.github.io/ziwei-web/), needs no login: it lays out the twelve-palace chart and comes with 36 lessons, one of which covers the Four Transformations.
+To find those four stars on your own chart, [SHILAI Ziwei](https://mm7382.github.io/ziwei/) is an iPhone course app that teaches you to read Zi Wei Dou Shu, and it is now available on the [App Store](https://apps.apple.com/tw/app/id6821574290). If you would rather not install an app, the free web version, [SHILAI Ziwei on the web](https://mm7382.github.io/ziwei-web/), needs no login: it lays out the twelve-palace chart and comes with 36 lessons, one of which covers the Four Transformations.
 
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/four-transformations.html)
 

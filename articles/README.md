@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 42 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 47 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -9,6 +9,8 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 
 ## English
 
+- [The 2027 I Ching Year Guide: Approach and the rhythm of the year](en/2027-i-ching-year-guide.md) — [source](https://mm7382.github.io/learn/en/2027-i-ching-year-guide.html)
+- [2027 Zi Wei Annual Guide: the Ding-Wei year in eight themes](en/2027-ziwei-year-guide.md) — [source](https://mm7382.github.io/learn/en/2027-ziwei-year-guide.html)
 - [About the author and licence](en/about.md) — [source](https://mm7382.github.io/learn/en/about.html)
 - [How do you ask the I Ching a question?](en/ask-the-i-ching-a-question.md) — [source](https://mm7382.github.io/learn/en/ask-the-i-ching-a-question.html)
 - [What are aspects in a birth chart?](en/aspects.md) — [source](https://mm7382.github.io/learn/en/aspects.html)
@@ -17,6 +19,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [How do you cast an I Ching hexagram with three coins?](en/coin-casting.md) — [source](https://mm7382.github.io/learn/en/coin-casting.html)
 - [Is my Day Master strong or weak? Day Master strength and the favourable element](en/day-master-strength.md) — [source](https://mm7382.github.io/learn/en/day-master-strength.html)
 - [What is the Day Master? How to find yours in a Bazi chart](en/day-master.md) — [source](https://mm7382.github.io/learn/en/day-master.html)
+- [Does the I Ching actually work? Prediction versus reflection](en/does-the-i-ching-work.md) — [source](https://mm7382.github.io/learn/en/does-the-i-ching-work.html)
 - [How do the twelve earthly branches map to clock hours?](en/earthly-branches-hours.md) — [source](https://mm7382.github.io/learn/en/earthly-branches-hours.html)
 - [What are the eight trigrams? Qian, Kun, Zhen, Xun, Kan, Li, Gen and Dui explained](en/eight-trigrams.md) — [source](https://mm7382.github.io/learn/en/eight-trigrams.html)
 - [What are the four elements and three modalities of the zodiac signs?](en/elements-modalities.md) — [source](https://mm7382.github.io/learn/en/elements-modalities.html)
@@ -28,6 +31,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [How to choose a good app for learning the I Ching: five things to check](en/how-to-choose-i-ching-app.md) — [source](https://mm7382.github.io/learn/en/how-to-choose-i-ching-app.html)
 - [How to choose an app for learning Zi Wei Dou Shu: five things to check](en/how-to-choose-ziwei-app.md) — [source](https://mm7382.github.io/learn/en/how-to-choose-ziwei-app.html)
 - [Can you teach yourself the I Ching? A self-study order that works](en/i-ching-self-study.md) — [source](https://mm7382.github.io/learn/en/i-ching-self-study.html)
+- [I Ching or Bazi: what is the difference and which to learn first](en/i-ching-vs-bazi.md) — [source](https://mm7382.github.io/learn/en/i-ching-vs-bazi.html)
 - [What is the difference between the I Ching and tarot?](en/i-ching-vs-tarot.md) — [source](https://mm7382.github.io/learn/en/i-ching-vs-tarot.html)
 - [How do you interpret an I Ching reading?](en/interpret-a-reading.md) — [source](https://mm7382.github.io/learn/en/interpret-a-reading.html)
 - [What does kong wang (void emptiness) mean in a Bazi chart?](en/kong-wang.md) — [source](https://mm7382.github.io/learn/en/kong-wang.html)
@@ -47,6 +51,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [What are the twelve houses in a birth chart? A beginner's guide](en/twelve-houses.md) — [source](https://mm7382.github.io/learn/en/twelve-houses.html)
 - [Can you read a birth chart without knowing your birth time?](en/unknown-birth-time.md) — [source](https://mm7382.github.io/learn/en/unknown-birth-time.html)
 - [How to start learning the I Ching: from yin and yang to the eight trigrams and sixty-four hexagrams](en/yijian-beginner.md) — [source](https://mm7382.github.io/learn/en/yijian-beginner.html)
+- [What are yin and yang? The basic unit of the I Ching explained](en/yin-and-yang.md) — [source](https://mm7382.github.io/learn/en/yin-and-yang.html)
 - [Zhou Yi or Yi Jing: what is the difference? The Three Changes and the Ten Wings](en/zhouyi-vs-yijing.md) — [source](https://mm7382.github.io/learn/en/zhouyi-vs-yijing.html)
 - [The fourteen major stars of Zi Wei Dou Shu: a reference table](en/ziwei-fourteen-major-stars.md) — [source](https://mm7382.github.io/learn/en/ziwei-fourteen-major-stars.html)
 - [Zi Wei Dou Shu for beginners: the twelve palaces and the Life Palace](en/ziwei-twelve-palaces.md) — [source](https://mm7382.github.io/learn/en/ziwei-twelve-palaces.html)
@@ -54,6 +59,8 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 
 ## 繁體中文
 
+- [2027 年度易經指南｜地澤臨與一年的行動節奏](zh/2027-i-ching-year-guide.md) — [原文](https://mm7382.github.io/learn/2027-i-ching-year-guide.html)
+- [2027 紫微年度運勢｜丁未年四化與一年的生活提醒](zh/2027-ziwei-year-guide.md) — [原文](https://mm7382.github.io/learn/2027-ziwei-year-guide.html)
 - [關於作者與使用授權](zh/about.md) — [原文](https://mm7382.github.io/learn/about.html)
 - [易經要怎麼問問題？問卦前把問題寫清楚的五個原則](zh/ask-the-i-ching-a-question.md) — [原文](https://mm7382.github.io/learn/ask-the-i-ching-a-question.html)
 - [相位是什麼？合相、對分、三分、四分、六分怎麼看](zh/aspects.md) — [原文](https://mm7382.github.io/learn/aspects.html)
@@ -62,6 +69,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [三枚銅錢起卦怎麼做？擲六次的規則與記錄方式](zh/coin-casting.md) — [原文](https://mm7382.github.io/learn/coin-casting.html)
 - [身強身弱怎麼看？日主強弱與喜用神入門](zh/day-master-strength.md) — [原文](https://mm7382.github.io/learn/day-master-strength.html)
 - [日主是什麼？怎麼從八字找到自己的日主](zh/day-master.md) — [原文](https://mm7382.github.io/learn/day-master.html)
+- [易經占卜準嗎？先分清「預測」和「反思」兩件事](zh/does-the-i-ching-work.md) — [原文](https://mm7382.github.io/learn/does-the-i-ching-work.html)
 - [十二時辰怎麼對應現在的時間？子丑寅卯一次看懂](zh/earthly-branches-hours.md) — [原文](https://mm7382.github.io/learn/earthly-branches-hours.html)
 - [八卦是什麼？乾坤震巽坎離艮兌一次看懂](zh/eight-trigrams.md) — [原文](https://mm7382.github.io/learn/eight-trigrams.html)
 - [星座的四元素與三種模式是什麼？](zh/elements-modalities.md) — [原文](https://mm7382.github.io/learn/elements-modalities.html)
@@ -73,6 +81,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [想學易經，怎麼挑一個好的 App？五個評估標準](zh/how-to-choose-i-ching-app.md) — [原文](https://mm7382.github.io/learn/how-to-choose-i-ching-app.html)
 - [想學紫微斗數，怎麼挑學習 App？五個評估標準](zh/how-to-choose-ziwei-app.md) — [原文](https://mm7382.github.io/learn/how-to-choose-ziwei-app.html)
 - [易經可以自學嗎？自學順序怎麼排](zh/i-ching-self-study.md) — [原文](https://mm7382.github.io/learn/i-ching-self-study.html)
+- [易經和八字有什麼不同？一個問當下，一個看整張底圖](zh/i-ching-vs-bazi.md) — [原文](https://mm7382.github.io/learn/i-ching-vs-bazi.html)
 - [易經和塔羅有什麼不同？初學該選哪一個](zh/i-ching-vs-tarot.md) — [原文](https://mm7382.github.io/learn/i-ching-vs-tarot.html)
 - [起完卦之後怎麼解讀？讀卦的六個步驟與取文規則](zh/interpret-a-reading.md) — [原文](https://mm7382.github.io/learn/interpret-a-reading.html)
 - [空亡是什麼意思？六十甲子的旬空與常見讀法](zh/kong-wang.md) — [原文](https://mm7382.github.io/learn/kong-wang.html)
@@ -92,6 +101,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 - [星盤的十二宮是什麼？宮位入門](zh/twelve-houses.md) — [原文](https://mm7382.github.io/learn/twelve-houses.html)
 - [不知道出生時間，還能看星盤嗎？](zh/unknown-birth-time.md) — [原文](https://mm7382.github.io/learn/unknown-birth-time.html)
 - [易經初學者怎麼開始：從陰陽、八卦到六十四卦](zh/yijian-beginner.md) — [原文](https://mm7382.github.io/learn/yijian-beginner.html)
+- [陰陽是什麼？從一條線看懂易經的基本單位](zh/yin-and-yang.md) — [原文](https://mm7382.github.io/learn/yin-and-yang.html)
 - [周易和易經有什麼不同？連山、歸藏與十翼一次說清楚](zh/zhouyi-vs-yijing.md) — [原文](https://mm7382.github.io/learn/zhouyi-vs-yijing.html)
 - [紫微斗數十四主星對照表：每顆星的本質、讀法與落宮](zh/ziwei-fourteen-major-stars.md) — [原文](https://mm7382.github.io/learn/ziwei-fourteen-major-stars.html)
 - [紫微斗數入門：十二宮與命宮](zh/ziwei-twelve-palaces.md) — [原文](https://mm7382.github.io/learn/ziwei-twelve-palaces.html)
