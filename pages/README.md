@@ -12,7 +12,7 @@ The canonical, most up-to-date version of every page is on the site itself; each
 
 ### English
 
-- [Free I Ching, Bazi, Zi Wei Dou Shu and astrology tools — no login](site/en/all-tools-en.md) — [source](https://mm7382.github.io/en/)
+- [AI Worlds experiment + free I Ching, Bazi, Zi Wei and astrology tools](site/en/all-tools-en.md) — [source](https://mm7382.github.io/en/)
 
 ### 繁體中文
 

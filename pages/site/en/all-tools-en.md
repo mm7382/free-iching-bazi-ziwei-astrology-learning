@@ -1,10 +1,10 @@
-# Free I Ching, Bazi, Zi Wei Dou Shu and astrology tools — no login
+# AI Worlds experiment + free I Ching, Bazi, Zi Wei and astrology tools
 
 > This is a mirror. The **canonical, most up-to-date version** is at https://mm7382.github.io/en/
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html)
 
-*Four free browser tools with complete lessons: I Ching casting with all 64 hexagrams, Bazi four pillars, Zi Wei Dou Shu twelve palaces and a Western birth chart. No account, no ads, data stays in your browser.*
+*Watch AI characters build a society with no script in the AI Worlds experiment. Plus four free browser tools with lessons: I Ching, Bazi, Zi Wei Dou Shu and a Western birth chart. No account, no ads.*
 
 ---
 

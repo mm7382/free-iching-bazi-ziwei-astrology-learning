@@ -1,6 +1,6 @@
 # Beginner articles (full text mirror)
 
-Full text of the 47 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
+Full text of the 48 beginner articles from <https://mm7382.github.io/learn/>, in Traditional Chinese and English.
 
 These are **mirrors**. The canonical, most up-to-date version of every article is on the site itself; each file links back to its source. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and adapt it freely with attribution to Wei Chun Chuang.
 
@@ -9,6 +9,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 
 ## English
 
+- [The 2027 Bazi Year Guide: how to read the Ding-Wei year](en/2027-bazi-year-guide.md) — [source](https://mm7382.github.io/learn/en/2027-bazi-year-guide.html)
 - [The 2027 I Ching Year Guide: Approach and the rhythm of the year](en/2027-i-ching-year-guide.md) — [source](https://mm7382.github.io/learn/en/2027-i-ching-year-guide.html)
 - [2027 Zi Wei Annual Guide: the Ding-Wei year in eight themes](en/2027-ziwei-year-guide.md) — [source](https://mm7382.github.io/learn/en/2027-ziwei-year-guide.html)
 - [About the author and licence](en/about.md) — [source](https://mm7382.github.io/learn/en/about.html)
@@ -59,6 +60,7 @@ Topics: the I Ching (易經), Bazi / Four Pillars (八字), Zi Wei Dou Shu (紫�
 
 ## 繁體中文
 
+- [2027 八字流年指南｜丁未年怎麼讀](zh/2027-bazi-year-guide.md) — [原文](https://mm7382.github.io/learn/2027-bazi-year-guide.html)
 - [2027 年度易經指南｜地澤臨與一年的行動節奏](zh/2027-i-ching-year-guide.md) — [原文](https://mm7382.github.io/learn/2027-i-ching-year-guide.html)
 - [2027 紫微年度運勢｜丁未年四化與一年的生活提醒](zh/2027-ziwei-year-guide.md) — [原文](https://mm7382.github.io/learn/2027-ziwei-year-guide.html)
 - [關於作者與使用授權](zh/about.md) — [原文](https://mm7382.github.io/learn/about.html)

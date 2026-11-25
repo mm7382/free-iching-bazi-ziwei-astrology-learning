@@ -80,6 +80,8 @@ Eight characters can't cover five phases evenly, so an uneven spread is very com
 
 To practise on your own chart, [Shilai – Bazi](https://mm7382.github.io/bazi/) is an iPhone course that teaches you to read Bazi: the app calculates the four pillars, and twenty plain-language lessons start from the pillars, stems, branches and Five Phases. The first three lessons are free and cover the material in this article. It is currently in App Store review.
 
+[The 2027 Bazi Year Guide: how to read the Ding-Wei year →](https://mm7382.github.io/learn/en/2027-bazi-year-guide.html)
+
 [More beginner guides](https://mm7382.github.io/learn/en/)・[中文版 (Traditional Chinese)](https://mm7382.github.io/learn/bazi-four-pillars.html)
 
 Written by [Wei Chun Chuang](https://mm7382.github.io/learn/en/about.html). Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution.
