@@ -116,6 +116,8 @@ Mercury retrograde。逆行本身的完整說法是 apparent retrograde motion�
 
 逆行是星盤上的一個細節。想把整張盤讀起來，可以接著看這幾篇：
 
+- [2027 占星年度指南](https://mm7382.github.io/learn/2027-astrology-year-guide.html)——占星的一年從春分開始，以及行星換星座的快慢怎麼影響年度判讀。
+
 - [太陽、月亮、上升怎麼讀](https://mm7382.github.io/learn/sun-moon-rising.html)——星盤最先要看的三個位置。
 
 - [相位是什麼](https://mm7382.github.io/learn/aspects.html)——行星之間的角度關係，逆行行星的相位怎麼看。

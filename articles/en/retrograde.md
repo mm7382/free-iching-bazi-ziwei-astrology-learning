@@ -112,6 +112,8 @@ Seen from Earth they can, by the same relative-motion effect as the planets. Sep
 
 Retrograde motion is one detail on a chart. To read the whole chart, carry on with these:
 
+- [The 2027 Astrology Year Guide](https://mm7382.github.io/learn/en/2027-astrology-year-guide.html) — why the astrological year starts at the equinox, and how fast each planet changes sign.
+
 - [How to read the Sun, Moon and Ascendant](https://mm7382.github.io/learn/en/sun-moon-rising.html) — the first three placements to look at.
 
 - [What aspects are](https://mm7382.github.io/learn/en/aspects.html) — the angles between planets, and how a retrograde planet aspects the rest.
